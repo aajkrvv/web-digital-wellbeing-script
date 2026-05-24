@@ -12,8 +12,6 @@
 // @connect      *
 // @homepageURL  https://github.com/aajkrvv/web-digital-wellbeing-script
 // @supportURL   https://github.com/aajkrvv/web-digital-wellbeing-script
-// @updateURL    https://example.com/script.meta.js
-// @downloadURL  https://example.com/script.user.js
 // ==/UserScript==
 (function () {
   'use strict';
