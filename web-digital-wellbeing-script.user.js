@@ -19,7 +19,7 @@
 (function () {
     'use strict';
 
-    /* ─────────── 상수 ─────────── */
+    /* ─────────── 상수! ─────────── */
     const KEY_PREFIX   = 'wbt_d_';
     const MAX_DAYS     = 14;
     const VIEWER_URL   = 'https://aajkrvv.github.io/web-digital-wellbeing-script/';
