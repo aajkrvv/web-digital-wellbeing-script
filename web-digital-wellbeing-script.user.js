@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Digital Wellbeing
+// @name         Web Digital Wellbeing Script
 // @namespace    aajkrvv
 // @version      1.0.0
 // @description  도
@@ -10,7 +10,7 @@
 // @grant        GM_setValue
 // @grant        GM_deleteValue
 // @connect      *
-// @homepageURL  https://aajkrvv.netlify.app/digital-wellbeing
+// @homepageURL  https://github.com/aajkrvv/web-digital-wellbeing-script
 // @supportURL   https://aajkrvv.netlify.app/
 // @updateURL    https://example.com/script.meta.js
 // @downloadURL  https://example.com/script.user.js
