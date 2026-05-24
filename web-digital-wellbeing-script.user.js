@@ -5,7 +5,6 @@
 // @description  도
 // @author       aajkrvv
 // @match        *://*/*
-// @exclude      https://example.com/*
 // @run-at       document-start
 // @grant        GM_getValue
 // @grant        GM_setValue
