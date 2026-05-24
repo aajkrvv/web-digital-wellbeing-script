@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Web Digital Wellbeing Script
 // @namespace    aajkrvv
-// @version      1.1.0
+// @version      1.1.1
 // @description  This is a script that is currently not working.
 // @author       aajkrvv
 // @match        *://*/*
