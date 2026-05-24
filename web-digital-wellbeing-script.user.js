@@ -22,7 +22,7 @@
     /* ─────────── 상수 ─────────── */
     const KEY_PREFIX   = 'wbt_d_';
     const MAX_DAYS     = 14;
-    const VIEWER_URL   = 'https://aajkrvv.netlify.app/webusingtime';
+    const VIEWER_URL   = 'https://aajkrvv.github.io/web-digital-wellbeing-script/';
     const COMMIT_EVERY = 5000;
     const MAX_TICK_SEC = 30;
 
