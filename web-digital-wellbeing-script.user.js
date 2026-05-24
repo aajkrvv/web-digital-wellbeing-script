@@ -2,7 +2,7 @@
 // @name         Web Digital Wellbeing Script
 // @namespace    aajkrvv
 // @version      1.0.0
-// @description  도
+// @description  This is a script that is currently not working.
 // @author       aajkrvv
 // @match        *://*/*
 // @run-at       document-end
