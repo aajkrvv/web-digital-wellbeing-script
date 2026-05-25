@@ -29,9 +29,16 @@
         header p {
             margin: 0;
             font-weight: 600;
+            font-size: 20px;
         }
         header nav button {
-            margin-left: 8px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 5px;
+            vertical-align: middle;
+            position: relative;
+            top: 2px;
         }
     </style>
 </head>
@@ -40,13 +47,19 @@
     <header role="banner">
         <p>디지털 웰빙</p>
         <nav>
-            <button>새로고침</button>
-            <button>주간 리포트</button>
-            <button>설정</button>
+            <button aria-label="새로고침">
+              <img src="https://img.icons8.com/?size=100&id=86220&format=png&color=000000" width="17" height="17" alt="">
+            </button>
+            <button aria-label="주간 리포트">
+              <img src="https://img.icons8.com/?size=100&id=59735&format=png&color=000000" width="19" height="19" alt="">
+            </button>
+            <button aria-label="설정">
+              <img src="https://img.icons8.com/?size=100&id=59996&format=png&color=000000" width="20" height="20" alt="">
+            </button>
         </nav>
     </header>
     <div>
-        <p>오늘의 웹사이트 사용 시간</p>
+        <p style="font-weight: 800; font-size: 30px; padding-left: 10px;">오늘의 웹사이트 사용 시간</p>
         <p>n시간 n분</p>
     </div>
     <div>
