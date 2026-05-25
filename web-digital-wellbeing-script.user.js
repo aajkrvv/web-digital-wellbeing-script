@@ -1,15 +1,16 @@
 // ==UserScript==
-// @name         Web Digital Wellbeing Script
+// @name Web Digital Wellbeing Script
 // @namespace    aajkrvv
 // @version      1.1.1
-// @description  1
+// @description  You can measure and analyze web usage time, and limit web usage. (Currently, the web usage restriction features contain many bugs, and the UI currently supports only Korean.), Usage: You can configure the settings by visiting https://aajkrvv.github.io/web-digital-wellbeing-script/
+// @description:ko 웹 사용 시간을 측정하고 통계화하며 웹 사용을 제한할 수 있습니다.(현재 웹 사용 제한 관련 기능에는 오류가 많습니다.), 사용 방법: https://aajkrvv.github.io/web-digital-wellbeing-script/ 주소에 접속하여 설정을 조작 할 수 있습니다.
 // @author       aajkrvv
 // @match        *://*/*
 // @run-at       document-end
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
-// @homepageURL  https://github.com/aajkrvv/web-digital-wellbeing-script
+// @homepageURL  https://aajkrvv.github.io/web-digital-wellbeing-script/
 // @supportURL   https://github.com/aajkrvv/web-digital-wellbeing-script
 // @grant        GM_setValue
 // @grant        GM_getValue
