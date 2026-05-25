@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Web Digital Wellbeing Script
 // @namespace    aajkrvv
-// @version      1.1.1
+// @version      2.0.0
 // @description  1
 // @author       aajkrvv
 // @match        *://*/*
