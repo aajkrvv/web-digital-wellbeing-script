@@ -1,3 +1,5 @@
+<!-- 할 일:
+vscode로 들여쓰기 정리-->
 <!DOCTYPE html>
 <html lang="ko-KR">
 
@@ -6,6 +8,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>디지털 웰빙</title>
     <style>
+      *,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button {
+  background: none;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+  outline: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+input:focus {
+  outline: none;
+}
         body {
             background-color: #fdfcf8;
             margin: 0;
@@ -57,16 +86,13 @@
             </button>
         </nav>
     </header>
-    <div>
-        <p style="font-weight: 800; font-size: 30px; padding-left: 10px;">오늘의 웹사이트 사용 시간</p>
-        <p>n시간 n분</p>
+    <div style="width: 200px; height: 100px; background-color: orange; border-radius: 10px;">
+        <p style="font-size: 15px; padding-left: 10px;">오늘의 웹사이트 사용 시간</p>
+        <p style="font-size: 50px; font-weight: bold;">n시간 n분</p>
     </div>
     <div>
         <canvas id="web-usage-time-chart"></canvas>
     </div>
-    <footer>
-        <p>aajkrvv</p>
-    </footer>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
             <script>
           const webUsageTimeChart = document.getElementById('web-usage-time-chart');
