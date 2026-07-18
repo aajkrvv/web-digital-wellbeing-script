@@ -2,7 +2,7 @@
 // @name         Web Digital Wellbeing Script
 // @namespace    aajkrvv
 // @version      2.0.0
-// @description  1
+// @description  0
 // @author       aajkrvv
 // @match        *://*/*
 // @run-at       document-end
