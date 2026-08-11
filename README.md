@@ -1,4 +1,6 @@
-# web-digital-wellbeing-script
+> [!WARNING]
+> This is an early version and may contain bugs/errors.
+
 ## Features
 - Measures website usage and provides statistics
 - ​Restricts website usage during specific periods of time
